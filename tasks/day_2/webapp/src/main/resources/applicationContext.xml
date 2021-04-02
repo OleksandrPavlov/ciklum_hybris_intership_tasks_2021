@@ -5,4 +5,36 @@
                 http://www.springframework.org/schema/beans
                 http://www.springframework.org/schema/beans/spring-beans.xsd">
 
+    <bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource">
+        <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://localhost:3306/web_app?serverTimezone=UTC#38characterEncoding=utf8"/>
+        <property name="username" value="root"/>
+        <property name="password" value="Sql12345!"/>
+        <property name="initialSize" value="10"/>
+        <property name="maxTotal" value="20"/>
+    </bean>
+
+    <bean id="transactionManager" class="com.learning.pavlov.jdbc.impl.TransactionManagerImpl">
+        <constructor-arg ref="dataSource"/>
+    </bean>
+
+    <bean id="orderDao" class="com.learning.pavlov.dao.impl.OrderDaoImpl"/>
+    <bean id="productDao" class="com.learning.pavlov.dao.impl.ProductDaoImpl"/>
+    <bean id="userDao" class="com.learning.pavlov.dao.impl.UserDaoImpl"/>
+
+    <bean id="accountService" class="com.learning.pavlov.services.impl.AccountServiceImpl">
+        <constructor-arg ref="userDao"/>
+        <constructor-arg ref="transactionManager"/>
+    </bean>
+    <bean id="productService" class="com.learning.pavlov.services.impl.ProductServiceImpl">
+        <constructor-arg ref="productDao"/>
+        <constructor-arg ref="transactionManager"/>
+    </bean>
+    <bean id="orderService" class="com.learning.pavlov.services.impl.OrderServiceImpl">
+        <constructor-arg ref="orderDao"/>
+        <constructor-arg ref="transactionManager"/>
+        <constructor-arg ref="productService"/>
+    </bean>
+
+
 </beans>

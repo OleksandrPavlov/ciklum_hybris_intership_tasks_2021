@@ -12,16 +12,13 @@ import java.sql.SQLException;
 import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
-import java.util.Properties;
 
 import static com.learning.pavlov.jdbc.handler.JDBCUtil.putErrorMsgToConnection;
 
 public class ProductDaoImpl implements ProductDao {
-    private final Properties sqlProperties;
     private final QueryRunner queryRunner;
 
-    public ProductDaoImpl(Properties sqlProperties) {
-        this.sqlProperties = sqlProperties;
+    public ProductDaoImpl() {
         queryRunner = new QueryRunner();
     }
 
@@ -30,7 +27,7 @@ public class ProductDaoImpl implements ProductDao {
     public int addProduct(Product product) {
         Connection connection = ThreadLocalConnection.getConnection();
         try {
-            return queryRunner.update(connection, sqlProperties.getProperty(SQLQueriesConstants.ADD_PRODUCT),
+            return queryRunner.update(connection, SQLQueriesConstants.ADD_PRODUCT,
                     product.getName(),
                     product.getPrice(),
                     product.getProductStatus().toString());
@@ -42,12 +39,12 @@ public class ProductDaoImpl implements ProductDao {
 
     @Override
     public List<Product> extractAllOrderedProducts() {
-        return getProductList(sqlProperties.getProperty(SQLQueriesConstants.GET_ALL_ORDERED_PRODUCTS));
+        return getProductList(SQLQueriesConstants.GET_ALL_ORDERED_PRODUCTS);
     }
 
     @Override
     public List<Product> extractAllProducts() {
-        return getProductList(sqlProperties.getProperty(SQLQueriesConstants.GET_ALL_PRODUCTS));
+        return getProductList(SQLQueriesConstants.GET_ALL_PRODUCTS);
     }
 
     private List<Product> getProductList(String sqlQuery) {
@@ -62,12 +59,12 @@ public class ProductDaoImpl implements ProductDao {
 
     @Override
     public int removeProduct(int productId) {
-        return update(sqlProperties.getProperty(SQLQueriesConstants.REMOVE_PRODUCT_BY_ID),productId);
+        return update(SQLQueriesConstants.REMOVE_PRODUCT_BY_ID,productId);
     }
 
     @Override
     public int removeAllProducts() {
-        return update(sqlProperties.getProperty(SQLQueriesConstants.DELETE_ALL_PRODUCTS));
+        return update(SQLQueriesConstants.DELETE_ALL_PRODUCTS);
     }
 
     private int update(String query,Object...parameters) {
@@ -84,7 +81,7 @@ public class ProductDaoImpl implements ProductDao {
     public Optional<Product> getProductById(long productId) {
         Connection connection = ThreadLocalConnection.getConnection();
         try {
-            return queryRunner.query(connection, sqlProperties.getProperty(SQLQueriesConstants.GET_PRODUCT_BY_ID), HandlerFactory.PRODUCT_RESULT_SET_HANDLER, productId);
+            return queryRunner.query(connection, SQLQueriesConstants.GET_PRODUCT_BY_ID, HandlerFactory.PRODUCT_RESULT_SET_HANDLER, productId);
         } catch (SQLException ex) {
             putErrorMsgToConnection(ex.getMessage(), connection);
         }

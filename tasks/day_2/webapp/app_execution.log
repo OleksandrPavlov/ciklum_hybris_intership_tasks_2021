@@ -912,3 +912,88 @@
 81   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
 82   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
 83   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+65   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+94   [localhost-startStop-1] DEBUG o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@35d6a2c2
+56   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+58   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+84   [localhost-startStop-1] DEBUG o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@20d54ee3
+69   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+70   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+97   [localhost-startStop-1] DEBUG o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@31222202
+190  [localhost-startStop-1] DEBUG o.s.b.f.xml.XmlBeanDefinitionReader - Loaded 8 bean definitions from class path resource [applicationContext.xml]
+213  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'dataSource'
+263  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'transactionManager'
+264  [localhost-startStop-1] WARN  o.s.c.s.ClassPathXmlApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'transactionManager' defined in class path resource [applicationContext.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.learning.pavlov.jdbc.impl.TransactionManagerImpl]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.learning.pavlov.jdbc.impl.TransactionManagerImpl.<init>()
+2882 [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+2888 [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+9582 [localhost-startStop-1] DEBUG o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6ac9828b
+9942 [localhost-startStop-1] DEBUG o.s.b.f.xml.XmlBeanDefinitionReader - Loaded 8 bean definitions from class path resource [applicationContext.xml]
+10055 [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'dataSource'
+10335 [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'transactionManager'
+10338 [localhost-startStop-1] WARN  o.s.c.s.ClassPathXmlApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'transactionManager' defined in class path resource [applicationContext.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.learning.pavlov.jdbc.impl.TransactionManagerImpl]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.learning.pavlov.jdbc.impl.TransactionManagerImpl.<init>()
+1635 [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+1642 [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+2551 [localhost-startStop-1] DEBUG o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67365eff
+2920 [localhost-startStop-1] DEBUG o.s.b.f.xml.XmlBeanDefinitionReader - Loaded 8 bean definitions from class path resource [applicationContext.xml]
+3035 [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'dataSource'
+3320 [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'transactionManager'
+3345 [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'orderDao'
+3356 [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'productDao'
+3356 [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'userDao'
+3357 [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'accountService'
+3361 [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'productService'
+3365 [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'orderService'
+8176 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+60   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+61   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+88   [localhost-startStop-1] DEBUG o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@56afa26e
+180  [localhost-startStop-1] DEBUG o.s.b.f.xml.XmlBeanDefinitionReader - Loaded 8 bean definitions from class path resource [applicationContext.xml]
+203  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'dataSource'
+251  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'transactionManager'
+260  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'orderDao'
+262  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'productDao'
+262  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'userDao'
+262  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'accountService'
+263  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'productService'
+264  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'orderService'
+272  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+62   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+89   [localhost-startStop-1] DEBUG o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@76e48699
+186  [localhost-startStop-1] DEBUG o.s.b.f.xml.XmlBeanDefinitionReader - Loaded 8 bean definitions from class path resource [applicationContext.xml]
+209  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'dataSource'
+258  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'transactionManager'
+268  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'orderDao'
+270  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'productDao'
+270  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'userDao'
+270  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'accountService'
+271  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'productService'
+272  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'orderService'
+281  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+57   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+59   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+85   [localhost-startStop-1] DEBUG o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@40e2600a
+178  [localhost-startStop-1] DEBUG o.s.b.f.xml.XmlBeanDefinitionReader - Loaded 8 bean definitions from class path resource [applicationContext.xml]
+202  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'dataSource'
+250  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'transactionManager'
+261  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'orderDao'
+264  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'productDao'
+264  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'userDao'
+264  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'accountService'
+265  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'productService'
+266  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'orderService'
+274  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+65   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+92   [localhost-startStop-1] DEBUG o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7a7fefa
+186  [localhost-startStop-1] DEBUG o.s.b.f.xml.XmlBeanDefinitionReader - Loaded 8 bean definitions from class path resource [applicationContext.xml]
+212  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'dataSource'
+261  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'transactionManager'
+271  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'orderDao'
+273  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'productDao'
+273  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'userDao'
+273  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'accountService'
+274  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'productService'
+275  [localhost-startStop-1] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'orderService'
+282  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized

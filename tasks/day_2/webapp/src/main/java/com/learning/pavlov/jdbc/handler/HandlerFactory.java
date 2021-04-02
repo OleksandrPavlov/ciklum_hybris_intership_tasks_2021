@@ -1,9 +1,9 @@
 package com.learning.pavlov.jdbc.handler;
 
+import com.learning.pavlov.constants.DBConstants;
 import com.learning.pavlov.models.Order;
 import com.learning.pavlov.models.Product;
 import com.learning.pavlov.models.User;
-import com.learning.pavlov.constants.DBConstants;
 import org.apache.commons.dbutils.ResultSetHandler;
 
 import java.time.LocalDateTime;

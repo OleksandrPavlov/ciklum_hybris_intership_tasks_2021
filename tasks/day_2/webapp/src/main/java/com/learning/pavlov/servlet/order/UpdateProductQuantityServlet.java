@@ -11,7 +11,6 @@ import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.io.IOException;
 
 import static com.learning.pavlov.constants.AttributeConstants.*;
 import static com.learning.pavlov.constants.ContextConstants.ORDER_SERVICE;

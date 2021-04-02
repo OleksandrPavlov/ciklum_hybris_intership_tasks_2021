@@ -1,9 +1,9 @@
 package com.learning.pavlov.dao.impl;
 
+import com.learning.pavlov.constants.SQLQueriesConstants;
 import com.learning.pavlov.dao.OrderDao;
 import com.learning.pavlov.models.Order;
 import com.learning.pavlov.util.ThreadLocalConnection;
-import com.learning.pavlov.constants.SQLQueriesConstants;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.ScalarHandler;
 
@@ -11,17 +11,15 @@ import java.math.BigInteger;
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.Optional;
-import java.util.Properties;
 
 import static com.learning.pavlov.jdbc.handler.HandlerFactory.ORDER_HANDLER;
 import static com.learning.pavlov.jdbc.handler.JDBCUtil.putErrorMsgToConnection;
 
 public class OrderDaoImpl implements OrderDao {
-    private final Properties sqlProperties;
+
     private final QueryRunner queryRunner;
 
-    public OrderDaoImpl(Properties sqlProperties) {
-        this.sqlProperties = sqlProperties;
+    public OrderDaoImpl() {
         queryRunner = new QueryRunner();
     }
 
@@ -29,7 +27,7 @@ public class OrderDaoImpl implements OrderDao {
     public int updateOrderItemQuantity(long productId, long orderId, int quantity) {
         Connection connection = ThreadLocalConnection.getConnection();
         try {
-            return queryRunner.update(connection, sqlProperties.getProperty(SQLQueriesConstants.UPDATE_ORDER_PRODUCT_QUANTITY), quantity, productId, orderId);
+            return queryRunner.update(connection, SQLQueriesConstants.UPDATE_ORDER_PRODUCT_QUANTITY, quantity, productId, orderId);
         } catch (SQLException ex) {
             putErrorMsgToConnection(ex.getMessage(), connection);
         }
@@ -40,7 +38,7 @@ public class OrderDaoImpl implements OrderDao {
     public Optional<Order> getOrder(long userId) {
         Connection connection = ThreadLocalConnection.getConnection();
         try {
-            return queryRunner.query(connection, sqlProperties.getProperty(SQLQueriesConstants.GET_ORDER_BY_USER_ID), ORDER_HANDLER, userId);
+            return queryRunner.query(connection, SQLQueriesConstants.GET_ORDER_BY_USER_ID, ORDER_HANDLER, userId);
         } catch (SQLException ex) {
             putErrorMsgToConnection(ex.getMessage(), connection);
         }
@@ -51,7 +49,7 @@ public class OrderDaoImpl implements OrderDao {
     public int addOrderItem(Order.OrderItem orderItem, long orderId) {
         Connection connection = ThreadLocalConnection.getConnection();
         try {
-            return queryRunner.update(connection, sqlProperties.getProperty(SQLQueriesConstants.ADD_ORDER_ITEM), orderId, orderItem.getProduct().getId(), orderItem.getQuantity());
+            return queryRunner.update(connection, SQLQueriesConstants.ADD_ORDER_ITEM, orderId, orderItem.getProduct().getId(), orderItem.getQuantity());
         } catch (SQLException ex) {
             putErrorMsgToConnection(ex.getMessage(), connection);
         }
@@ -62,7 +60,7 @@ public class OrderDaoImpl implements OrderDao {
     public long createNewOrder(long userId) {
         Connection connection = ThreadLocalConnection.getConnection();
         try {
-            return queryRunner.insert(connection, sqlProperties.getProperty(SQLQueriesConstants.CREATE_NEW_ORDER), new ScalarHandler<BigInteger>(), userId, "newly").longValue();
+            return queryRunner.insert(connection, SQLQueriesConstants.CREATE_NEW_ORDER, new ScalarHandler<BigInteger>(), userId, "newly").longValue();
         } catch (SQLException ex) {
             putErrorMsgToConnection(ex.getMessage(), connection);
         }
@@ -73,7 +71,7 @@ public class OrderDaoImpl implements OrderDao {
     public boolean removeOrder(long userId) {
         Connection connection = ThreadLocalConnection.getConnection();
         try {
-            return queryRunner.update(connection, sqlProperties.getProperty(SQLQueriesConstants.REMOVE_ORDER), userId) > 0;
+            return queryRunner.update(connection, SQLQueriesConstants.REMOVE_ORDER, userId) > 0;
         } catch (SQLException ex) {
             putErrorMsgToConnection(ex.getMessage(), connection);
         }

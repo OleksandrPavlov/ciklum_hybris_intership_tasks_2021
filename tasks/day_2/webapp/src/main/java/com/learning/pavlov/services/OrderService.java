@@ -1,7 +1,6 @@
 package com.learning.pavlov.services;
 
 import com.learning.pavlov.models.Order;
-import com.learning.pavlov.models.User;
 
 import java.util.Optional;
 
