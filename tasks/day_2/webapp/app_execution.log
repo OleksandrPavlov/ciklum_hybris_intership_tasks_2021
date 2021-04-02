@@ -1,0 +1,914 @@
+1939 [main] INFO  Application - Loading all application properties...
+1950 [main] INFO  Application - Loading local.properties...
+1952 [main] INFO  Application - Local application init resources loaded!
+1952 [main] INFO  Application - Loading sql_queries.properties...
+1953 [main] INFO  Application - Local application init resources loaded!
+1955 [main] DEBUG Application - Initializing connection pool...
+2561 [main] INFO  Application - Application context initializing...
+2568 [main] INFO  Application - Initializing services...
+2576 [main] INFO  Application - Initializing LanguagePollCommand...
+2579 [main] INFO  Application - Initializing AuthenticationCommand...
+2581 [main] INFO  Application - Initializing MeinMenuCommand...
+2585 [main] INFO  Application - Initializing MeinMenuCommand...
+686  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+726  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+727  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+727  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+886  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+891  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+917  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+933  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+951  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+952  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+451  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+471  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+471  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+472  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+545  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+548  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+550  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+551  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+552  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+552  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+272  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+277  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+277  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+278  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+331  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+353  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+355  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+356  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+358  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+359  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+203  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+206  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+207  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+207  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+263  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+285  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+287  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+289  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+291  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+292  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+231  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+237  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+238  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+238  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+312  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+340  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+342  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+345  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+348  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+349  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+202  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+206  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+206  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+207  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+265  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+287  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+289  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+291  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+292  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+293  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+212  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+217  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+218  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+218  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+310  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+323  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+325  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+327  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+329  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+329  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+609  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+632  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+632  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+633  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+747  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+752  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+753  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+755  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+756  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+757  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+576  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+579  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+579  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+579  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+675  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+695  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+705  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+705  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+705  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+705  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+272  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+272  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+272  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+272  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+353  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+385  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+388  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+390  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+398  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+398  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+212  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+212  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+212  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+212  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+272  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+302  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+302  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+312  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+312  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+312  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+870  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+890  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+890  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+890  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+1030 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+1070 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+1070 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+1070 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+1080 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+1080 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+182  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+192  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+192  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+192  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+262  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+292  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+302  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+302  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+302  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+312  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+295  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+302  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+302  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+304  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+365  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+385  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+387  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+389  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+390  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+391  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+846  [http-bio-9090-exec-1] INFO  c.l.p.filter.LocalizationFilter - Localization filter running...
+1040 [http-bio-9090-exec-2] INFO  c.l.p.filter.LocalizationFilter - Localization filter running...
+180  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+190  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+190  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+190  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+240  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+270  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+270  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+270  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+270  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+270  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+454  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+472  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+472  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+473  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+630  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+636  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+648  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+652  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+656  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+657  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+785  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+790  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+790  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+790  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+872  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+885  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+887  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+889  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+892  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+892  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+492  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+510  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+511  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+511  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+642  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+647  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+648  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+650  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+652  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+652  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+385  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+410  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+410  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+410  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+527  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+535  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+536  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+537  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+539  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+540  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+384  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+391  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+391  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+391  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+482  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+490  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+493  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+496  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+498  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+499  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+365  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+373  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+374  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+374  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+481  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+492  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+495  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+499  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+503  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+504  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+861  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+868  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+869  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+869  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+938  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+945  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+948  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+951  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+953  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+954  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+2898 [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+2905 [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+2905 [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+2905 [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+2985 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+2993 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+2996 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+2998 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+3001 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+3001 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+259  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+264  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+264  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+265  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+343  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+351  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+353  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+356  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+359  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+360  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+884  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+908  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+908  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+909  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+1036 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+1054 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+1057 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+1060 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+1063 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+1064 [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+240  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+250  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+250  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+250  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+320  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+320  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+330  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+330  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+330  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+330  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+240  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+250  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+250  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+250  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+310  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+310  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+320  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+320  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+320  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+320  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+720  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+724  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+725  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+725  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+899  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+915  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+917  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+919  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+921  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+921  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+181  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+184  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+185  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+185  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+245  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+250  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+252  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+254  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+256  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+256  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+240  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+250  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+250  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+250  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+320  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+330  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+330  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+330  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+340  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+340  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+490  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+490  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+490  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+490  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+560  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+570  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+570  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+570  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+580  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+580  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+310  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+310  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+320  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+320  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+410  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+420  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+420  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+420  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+420  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+430  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+271  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+274  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+275  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+275  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+355  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+380  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+382  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+384  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+385  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+386  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+187  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+191  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+191  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+191  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+249  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+254  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+256  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+258  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+260  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+260  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+161  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+165  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+165  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+165  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+226  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+230  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+232  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+233  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+235  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+236  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+187  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+192  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+193  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+193  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+252  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+256  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+258  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+260  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+261  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+262  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+177  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+181  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+181  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+181  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+235  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+239  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+241  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+243  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+245  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+245  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+264198 [http-bio-9090-exec-7] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-3' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 3, 7]
+162  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+166  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+167  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+167  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+224  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+229  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+231  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+232  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+234  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+234  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+45955 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 4]
+53569 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 5]
+57863 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 6]
+58591 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 5]
+58751 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 4]
+59199 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 3]
+59806 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 4]
+59959 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 5]
+60109 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 6]
+60245 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 7]
+67999 [http-bio-9090-exec-8] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 4]
+69279 [http-bio-9090-exec-8] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 5]
+73959 [http-bio-9090-exec-2] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 4]
+74104 [http-bio-9090-exec-2] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 5]
+315811 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-1' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 1, 4]
+180  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+184  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+185  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+185  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+243  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+249  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+251  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+253  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+260  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+261  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+174  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+178  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+178  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+178  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+230  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+234  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+236  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+237  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+239  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+240  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+188  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+192  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+192  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+192  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+249  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+255  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+257  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+259  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+260  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+261  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+199  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+203  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+203  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+203  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+259  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+264  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+266  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+268  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+270  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+270  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+186  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+194  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+194  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+194  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+264  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+269  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+271  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+274  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+276  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+277  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+199  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+202  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+202  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+202  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+255  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+261  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+263  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+266  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+268  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+269  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+174  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+178  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+178  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+179  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+229  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+233  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+234  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+235  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+237  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+237  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+197  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+202  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+202  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+202  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+265  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+272  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+274  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+276  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+278  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+279  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+451245 [http-bio-9090-exec-6] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry 'adminnn' for key 'users.login' Query: INSERT INTO users(login,password) VALUES(?,?); Parameters: [adminnn, Password1@@]
+167  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+173  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+173  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+174  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+229  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+240  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+242  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+243  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+245  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+245  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+163  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+167  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+167  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+167  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+209  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+212  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+213  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+214  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+215  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+216  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+184  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+187  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+188  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+188  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+235  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+248  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+250  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+251  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+253  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+254  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+165  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+169  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+170  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+170  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+219  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+230  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+231  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+233  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+235  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+235  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+178  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+184  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+185  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+185  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+234  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+246  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+249  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+250  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+250  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+251  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+194  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+199  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+199  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+200  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+259  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+268  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+270  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+271  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+273  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+273  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+160  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+165  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+165  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+165  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+216  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+227  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+229  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+230  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+232  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+232  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+178  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+182  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+182  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+182  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+232  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+244  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+246  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+263  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+278  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+279  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+192  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+198  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+199  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+199  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+249  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+258  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+260  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+261  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+273  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+274  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+167  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+171  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+171  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+172  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+220  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+233  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+235  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+236  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+249  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+250  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+194  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+197  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+197  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+197  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+258  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+269  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+270  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+272  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+285  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+286  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+176  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+180  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+181  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+181  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+229  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+240  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+242  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+243  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+255  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+256  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+163  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+166  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+167  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+167  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+223  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+235  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+238  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+240  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+255  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+255  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+171  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+175  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+176  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+176  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+226  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+238  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+240  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+242  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+254  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+255  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+46703 [http-bio-9090-exec-8] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-2' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 2, 6]
+55182 [http-bio-9090-exec-9] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-2' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 2, 6]
+286110 [http-bio-9090-exec-8] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1-2' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [1, 2, 6]
+218  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+224  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+224  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+224  [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+278  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+290  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+292  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+294  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+309  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+310  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+65   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+65   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+65   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+90   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+94   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+94   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+95   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+96   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+96   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+28128 [http-bio-9090-exec-8] ERROR c.l.p.j.impl.TransactionManagerImpl - Sql exception has been happened in start method of transaction manager
+76   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+78   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+78   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+79   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+105  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+107  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+108  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+109  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+110  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+110  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+78866 [http-bio-9090-exec-6] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+79573 [http-bio-9090-exec-6] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 3]
+139897 [http-bio-9090-exec-7] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+141497 [http-bio-9090-exec-7] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 3]
+283920 [http-bio-9090-exec-2] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+294524 [http-bio-9090-exec-2] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 3]
+374023 [http-bio-9090-exec-5] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+374881 [http-bio-9090-exec-5] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 3]
+379401 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+380058 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 3]
+401638 [http-bio-9090-exec-4] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+416441 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+435340 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+81   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+83   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+83   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+83   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+107  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+110  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+111  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+111  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+112  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+113  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+22071 [http-bio-9090-exec-10] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+22992 [http-bio-9090-exec-10] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 3]
+59   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+61   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+61   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+61   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+81   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+84   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+85   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+85   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+86   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+86   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+17385 [http-bio-9090-exec-1] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+145922 [http-bio-9090-exec-7] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+58   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+60   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+60   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+60   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+78   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+80   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+81   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+81   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+82   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+82   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+26718 [http-bio-9090-exec-10] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+27207 [http-bio-9090-exec-10] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 3]
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+65   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+65   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+65   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+84   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+86   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+87   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+88   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+88   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+88   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+148062 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+148768 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 3]
+148911 [http-bio-9090-exec-3] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 4]
+67   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+68   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+68   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+68   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+88   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+90   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+91   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+91   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+92   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+92   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+27906 [http-bio-9090-exec-5] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+60   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+62   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+62   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+62   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+80   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+82   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+82   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+83   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+84   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+84   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+27401 [http-bio-9090-exec-10] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+59   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+61   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+61   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+61   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+82   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+84   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+85   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+86   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+86   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+86   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+88465 [http-bio-9090-exec-8] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+309441 [http-bio-9090-exec-10] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+74   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+76   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+76   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+77   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+102  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+105  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+106  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+108  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+109  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+109  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+16165 [http-bio-9090-exec-1] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+88   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+91   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+91   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+91   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+120  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+122  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+123  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+124  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+125  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+126  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+9949 [http-bio-9090-exec-5] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+79119 [http-bio-9090-exec-4] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 3]
+135050 [http-bio-9090-exec-4] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 4]
+506681 [http-bio-9090-exec-6] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '4-8' for key 'order_items.PRIMARY' Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [4, 8, 2]
+87   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+89   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+89   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+89   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+138  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+141  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+141  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+142  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+143  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+143  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+85   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+87   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+87   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+87   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+108  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+110  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+110  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+111  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+112  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+112  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+54841 [http-bio-9090-exec-2] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1' for key 'orders.user_id' Query: INSERT INTO orders(user_id,status) VALUES(?,?); Parameters: [1, newly]
+54842 [http-bio-9090-exec-2] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Cannot add or update a child row: a foreign key constraint fails (`web_app`.`order_items`, CONSTRAINT `order_items_ibfk_1` FOREIGN KEY (`order_id`) REFERENCES `orders` (`id`) ON DELETE CASCADE) Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [-1, 4, 1]
+58210 [http-bio-9090-exec-5] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1' for key 'orders.user_id' Query: INSERT INTO orders(user_id,status) VALUES(?,?); Parameters: [1, newly]
+58211 [http-bio-9090-exec-5] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Cannot add or update a child row: a foreign key constraint fails (`web_app`.`order_items`, CONSTRAINT `order_items_ibfk_1` FOREIGN KEY (`order_id`) REFERENCES `orders` (`id`) ON DELETE CASCADE) Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [-1, 4, 1]
+71929 [http-bio-9090-exec-1] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1' for key 'orders.user_id' Query: INSERT INTO orders(user_id,status) VALUES(?,?); Parameters: [1, newly]
+71930 [http-bio-9090-exec-1] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Cannot add or update a child row: a foreign key constraint fails (`web_app`.`order_items`, CONSTRAINT `order_items_ibfk_1` FOREIGN KEY (`order_id`) REFERENCES `orders` (`id`) ON DELETE CASCADE) Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [-1, 4, 1]
+93   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+96   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+96   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+96   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+129  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+133  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+135  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+136  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+137  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+137  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+2250946 [http-bio-9090-exec-4] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Duplicate entry '1' for key 'orders.user_id' Query: INSERT INTO orders(user_id,status) VALUES(?,?); Parameters: [1, newly]
+2250948 [http-bio-9090-exec-4] ERROR c.l.pavlov.jdbc.handler.JDBCUtil - Cannot add or update a child row: a foreign key constraint fails (`web_app`.`order_items`, CONSTRAINT `order_items_ibfk_1` FOREIGN KEY (`order_id`) REFERENCES `orders` (`id`) ON DELETE CASCADE) Query: INSERT INTO order_items(order_id,product_id,quantity) VALUES(?,?,?); Parameters: [-1, 4, 1]
+81   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+83   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+83   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+83   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+110  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+113  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+114  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+115  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+116  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+117  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+62   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+84   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+86   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+87   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+87   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+88   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+88   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+78   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+80   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+80   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+80   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+105  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+107  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+108  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+109  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+110  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+111  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+80   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+82   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+82   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+82   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+107  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+110  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+111  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+112  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+119  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+119  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+61   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+84   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+86   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+87   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+87   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+88   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+88   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+76   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+78   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+78   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+78   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+103  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+106  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+107  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+107  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+114  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+114  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+81   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+83   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+83   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+83   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+108  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+110  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+111  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+112  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+120  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+120  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+75   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+76   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+77   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+77   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+101  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+104  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+105  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+106  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+113  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+113  [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
+61   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading sql_queries.properties...
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - sql_queries.properties application init resources loaded !
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - Loading local.properties...
+63   [localhost-startStop-1] INFO  c.l.p.listener.AppContextListener - local.properties application init resources loaded !
+78   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Connection pool has been initialized!
+80   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - User repository has been initialized
+81   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - user service has been initialized
+81   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Product service has been initialized!
+82   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Order service has been initialized!
+83   [localhost-startStop-1] DEBUG c.l.p.listener.AppContextListener - Context has been initialized
